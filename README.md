@@ -4,7 +4,7 @@
 
 ## Introduction
 
-Forum Feed App ("we", "our", or "the app") respects your privacy and is committed to protecting your personal data. This privacy policy explains how we handle information when you use our mobile application.
+Forum App ("we", "our", or "the app") respects your privacy and is committed to protecting your personal data. This privacy policy explains how we handle information when you use our mobile application.
 
 ## Information We Collect
 
