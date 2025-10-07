@@ -129,8 +129,8 @@ We use the following third-party services:
 ## Contact Information
 
 For privacy concerns or data requests, contact us at:
-- Email: privacy@forumfeedapp.com
-- Website: https://forumfeedapp.com/privacy
+- Email: privacy@forum.online
+- Website: https://forum.online/privacy
 
 ## Legal Basis for Processing (GDPR)
 
@@ -142,7 +142,7 @@ We process personal data based on:
 
 ## Data Protection Officer
 
-For EU residents, our DPO can be reached at: dpo@forumfeedapp.com
+For EU residents, our DPO can be reached at: dpo@forum.online
 
 ## California Privacy Rights (CCPA)
 
