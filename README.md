@@ -6,6 +6,14 @@
 
 Forum App ("we", "our", or "the app") respects your privacy and is committed to protecting your personal data. This privacy policy explains how we handle information when you use our mobile application.
 
+## Related Policies
+
+For content safety, user-generated content, and community rules, see:
+
+- [Safety Policy](./safety_policy.md)
+- [Content Moderation Policy](./content_moderation_policy.md)
+- [Posting Rules](./posting_rules.md)
+
 ## Information We Collect
 
 ### 1. Passport/ID Data via NFC
