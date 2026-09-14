@@ -63,8 +63,8 @@ Forum Online создан для обсуждения гражданских в�
 
 Подробные стандарты и логику применения мер смотрите в следующих документах:
 
-- [Политика модерации контента](./content_moderation_policy.md)
-- [Правила публикации](./posting_rules.md)
+- [Политика модерации контента](../content_moderation_policy/content_moderation_policy.ru.md)
+- [Правила публикации](../posting_rules/posting_rules.ru.md)
 
 ## Контакты службы безопасности
 

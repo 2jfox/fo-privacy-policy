@@ -63,8 +63,8 @@ Forum Online створений для обговорення громадянс
 
 Детальні стандарти та логіку застосування заходів дивіться в таких документах:
 
-- [Політика модерації контенту](./content_moderation_policy.md)
-- [Правила публікації](./posting_rules.md)
+- [Політика модерації контенту](../content_moderation_policy/content_moderation_policy.uk.md)
+- [Правила публікації](../posting_rules/posting_rules.uk.md)
 
 ## Контакти служби безпеки
 
