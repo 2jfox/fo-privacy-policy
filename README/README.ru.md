@@ -1,6 +1,6 @@
 # Правила публикации на Forum Online
 
-🌐 Посмотреть на других языках: [English](README.md) | [Українська](README.uk.md)
+🌐 Посмотреть на других языках: [English](../README.md) | [Українська](README.uk.md)
 
 ---
 
